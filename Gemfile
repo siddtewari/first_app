@@ -1,3 +1,7 @@
+# Sidd was here!!!
+# Sidd updated this file with Michael Hartl book on 02/28/2012 
+# Sidd then updated this again on 03/07/2012 in Cambridge Public Library
+
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.1'
@@ -5,7 +9,7 @@ gem 'rails', '3.2.1'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-# 02/28/2012 I commented the following line based on the update suggested in the book; 
+# Sidd 02/28/2012 I commented the following line based on the update suggested in the book; 
 gem 'sqlite3'
 
 # the line below is a new line to replace the line gem 'sqlite3'
